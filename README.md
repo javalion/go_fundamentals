@@ -8,3 +8,4 @@ concepts such as data types, conditions and loops.
 - Core Data Types
 - Conditions
 - Loops
+- Processing Standard In
